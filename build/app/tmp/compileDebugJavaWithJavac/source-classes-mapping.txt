@@ -1,0 +1,6 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/ripplescode/location_map_flutter_getx/BuildConfig.java
+ com.ripplescode.location_map_flutter_getx.BuildConfig
+com/ripplescode/location_map_flutter_getx/MainActivity.java
+ com.ripplescode.location_map_flutter_getx.MainActivity

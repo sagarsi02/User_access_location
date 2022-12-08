@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "artifactType": {
+    "type": "COMPATIBLE_SCREEN_MANIFEST",
+    "kind": "Directory"
+  },
+  "applicationId": "com.ripplescode.location_map_flutter_getx",
+  "variantName": "debug",
+  "elements": []
+}
